@@ -1,15 +1,19 @@
 # Changelog
 
+## 0.3.1 - 2026-04-09
+### Fixed
+Correct the hash table with the type `[ordered]` to keep the same order used in the code
+
 ## 0.3.0 - 2026-04-09
 ### Added 
-Support the inline hash table to return a Object
+Support the inline hash table with the syntax `@{key1=value1;key2=value2;key3=value3}` to return a Object
 ### Changed
 - Update the license file with the terms
 - Update the Roadmap
 
 ## 0.2.0 - 2026-04-09
 ### Added 
-Implement Backtick to make the script easy to read
+Implement `Backtick` to make the script easy to read
 ### Changed
 - Rename the script to follow PowerShell naming convention
 - Update the roadmap with more details
