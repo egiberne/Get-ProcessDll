@@ -1,8 +1,8 @@
 # Changelog
 
-## 1.3.1 - 2026-04-12
+## 1.3.1 - 2026-04-15
 ### Fixed
-- Correct the link in the README
+Adjusted the output in the README
 
 ## 1.3.0 - 2026-04-12
 ### Fixed

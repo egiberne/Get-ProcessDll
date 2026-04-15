@@ -15,15 +15,13 @@ The Get-LoadedDll is attempt to replicate in PowerShell the LisDlls utility from
 >Enable PowerShell Execution
 
 Check execution policy status
+
 ```powershell
 Get-ExecutionPolicy
 ```
 
-```Output
-Unrestricted
-```
-```Output
-Bypass
+```output
+<Unrestricted | Bypass>
 ```
 
 ## Roadmap
