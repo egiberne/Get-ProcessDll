@@ -1,0 +1,13 @@
+# Files and Folders Unsynced
+
+## Logs
+*.Log
+*.txt
+*.csv
+
+## VS Code
+.vscode/*
+*.code-workspace
+
+## Include
+!src

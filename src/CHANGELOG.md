@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.2 - 2026-04-15
+### Added 
+Provided the file `.gitignore`
+### Changed
+Rename the changelog file
+
 ## 1.3.1 - 2026-04-15
 ### Fixed
 Adjusted the output in the README
